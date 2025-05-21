@@ -67,15 +67,15 @@ python src/run.py
 
 ## 🎯 Örnek Değerlendirme Kriterleri:
 
-| IP Adresi       | VT Analiz Sonucu                | Sınıflandırma        |
-| --------------- | ------------------------------- | -------------------- |
-| 104.219.13.197  | `malicious: 0`, `suspicious: 0` | Clean (Not Listed)   |
-| 34.74.242.228   | `malicious: 5`, `suspicious: 3` | Malicious/Suspicious |
-| 196.251.83.136  | `malicious: 12`, `suspicious: 1`| Malicious/Suspicious |
-| 185.93.89.118   | `malicious: 16`, `suspicious: 2`| Malicious/Suspicious |
-| 167.94.146.21   | `malicious: 1`, `suspicious: 1` | Malicious/Suspicious |
-| 171.123.173.202 | `malicious: 4`, `suspicious: 0` | Malicious/Suspicious |
-| 192.168.1.256   | Kayıt bulunamadı                | Not Found            |
+| IP Adresi       | VT Analiz Sonucu                | Sınıflandırma         |
+| --------------- | ------------------------------- | --------------------- |
+| 104.219.13.197  | `malicious: 0`, `suspicious: 0` | Clean (Not Listed)    |
+| 34.74.242.228   | `malicious: 5`, `suspicious: 3` | Malicious/Suspicious  |
+| 196.251.83.136  | `malicious: 12`, `suspicious: 1`| Malicious/Suspicious  |
+| 185.93.89.118   | `malicious: 16`, `suspicious: 2`| Malicious/Suspicious  |
+| 167.94.146.21   | `malicious: 1`, `suspicious: 1` | Malicious/Suspicious  |
+| 171.123.173.202 | `malicious: 4`, `suspicious: 0` | Malicious/Suspicious  |
+| 192.168.1.256   | Kayıt bulunamadı                | Not Found             |
 
 ---
 
